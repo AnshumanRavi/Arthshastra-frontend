@@ -118,7 +118,7 @@ const AboutUS = () => {
           className="profile-card" // Add a class for hover effect
         >
           <img
-            src="/photos/MNC.png"
+            src="/tic.jpg"
             alt="Dr. Bishnu Charan Nag"
             style={{ width: '150px', height: '150px', borderRadius: '50%', marginBottom: '15px', border: '3px solid #fff', boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)' }} // Circular image with border
           />
