@@ -48,7 +48,7 @@ const SocialMedia = () => {
             {/* Instagram Profile with Scroll */}
             <div className="flex-1 border rounded-lg overflow-auto">
               <iframe
-                src="https://www.instagram.com/arthashastra_mlnce/embed"
+                src="https://www.instagram.com/arthaveda_mlnce/embed"
                 title="Instagram"
                 className="w-full h-[300px] md:h-[500px]"
                 loading="lazy"
